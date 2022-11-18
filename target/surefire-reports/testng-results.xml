@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-18T16:07:41 IST" name="Swaglabs" finished-at="2022-11-18T16:07:56 IST" duration-ms="14943">
+    <groups>
+    </groups>
+    <test started-at="2022-11-18T16:07:41 IST" name="Test" finished-at="2022-11-18T16:07:56 IST" duration-ms="14943">
+      <class name="swaglab.test.Login_Test">
+        <test-method is-config="true" signature="getLaunchswaglab()[pri:0, instance:swaglab.test.Login_Test@45099dd3]" started-at="2022-11-18T16:07:41 IST" name="getLaunchswaglab" finished-at="2022-11-18T16:07:51 IST" duration-ms="10132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLaunchswaglab -->
+        <test-method signature="verifyTitle()[pri:1, instance:swaglab.test.Login_Test@45099dd3]" started-at="2022-11-18T16:07:51 IST" name="verifyTitle" finished-at="2022-11-18T16:07:51 IST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method signature="wrongDatawithLogin()[pri:2, instance:swaglab.test.Login_Test@45099dd3]" started-at="2022-11-18T16:07:51 IST" name="wrongDatawithLogin" finished-at="2022-11-18T16:07:54 IST" duration-ms="2582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wrongDatawithLogin -->
+        <test-method signature="loginwithvaliddata()[pri:3, instance:swaglab.test.Login_Test@45099dd3]" started-at="2022-11-18T16:07:54 IST" name="loginwithvaliddata" finished-at="2022-11-18T16:07:56 IST" duration-ms="1609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithvaliddata -->
+        <test-method signature="clickonmenubutton()[pri:4, instance:swaglab.test.Login_Test@45099dd3]" started-at="2022-11-18T16:07:56 IST" name="clickonmenubutton" finished-at="2022-11-18T16:07:56 IST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonmenubutton -->
+        <test-method signature="clickonLogout()[pri:5, instance:swaglab.test.Login_Test@45099dd3]" started-at="2022-11-18T16:07:56 IST" name="clickonLogout" finished-at="2022-11-18T16:07:56 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonLogout -->
+      </class> <!-- swaglab.test.Login_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Swaglabs -->
+</testng-results>
